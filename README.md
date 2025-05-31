@@ -2,11 +2,9 @@
 
 Hello,
 
-Welcome to my github pages. 
+Welcome to My GitHub Pages
 
-I use this repository to track all my learning achievements and certifications which I do in any learning platform. 
+This repository showcases my learning journey, including achievements and certifications from various platforms. Explore my progress and view my certifications here
 
-You can view my learning certifications on this page. 
-
-Thanks!
-
+Thanks,
+Ashok Srinivasan Kalyani
