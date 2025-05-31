@@ -1,4 +1,4 @@
-# Ashok Srinivasan Kalyani - Release Manager & Scrum Master
+# Ashok Srinivasan Kalyani - Release Manager, Scrum Master and DevOps
 
 Hello,
 
