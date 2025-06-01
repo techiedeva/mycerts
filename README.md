@@ -44,3 +44,14 @@ This repository showcases my learning journey, including achievements and certif
   - **Category: Web Development**
     - Web Programming Foundations | Completed Dec 2023 | *Link*: [View Certificate](https://github.com/techiedeva/mycerts/blob/main/CertificateOfCompletion_Web%20Programming%20Foundations.pdf)
     - HTTP Essential Training | Completed Nov 2023 | *Link*: [View Certificate](https://github.com/techiedeva/mycerts/blob/main/CertificateOfCompletion_HTTP%20Essential%20Training%20(1).pdf)
+   
+  - **Category: Cloud Computing and Containerization**
+    - Kubernetes for beginner | Completed Oct 2023 | *Link*: [View Certificate](https://github.com/techiedeva/mycerts/blob/main/CertOfCompletion_Kubernetes_Beginners.pdf)
+    - DevOps Foundations: Incident Management | Completed Sep 2023 | *Link*: [View Certificate](CertOfCompletion_DevOps_Foundations_Incident_Mgmt.pdf)
+    - AZ 900: MS Azure Fundamentals in a Weekend | Completed Feb 2022 | *Link*: [View Certificate](https://github.com/techiedeva/mycerts/blob/main/Azure900-CourseCompletionCertificate.pdf)
+    - Docker Swarm | Completed Oct 2021 | *Link*: [View Certificate](https://github.com/techiedeva/mycerts/blob/main/Docker%20Swarm-Course%20Completion%20Certificate.pdf)
+    - Docker for Absolute beginner | Completed Sep 2021 | *Link*: [View Certificate](https://github.com/techiedeva/mycerts/blob/main/Docker-Beginners-Course%20Completion%20Certificate.pdf)
+    - AWS Concepts | Completed Aug 2020 | *Link*: [View Certificate](https://github.com/techiedeva/mycerts/blob/main/Linux%20Academy-AWS%20Concepts.pdf)
+    - AWS Cloud Practitioner Essentials day | Completed July 2020 | *Link*: [View Certificate](https://github.com/techiedeva/mycerts/blob/main/Cloud%20Practitioner.pdf)
+    - AWS - Intro to EC2 | Completed June 2020 | *Link*: [View Certificate](https://github.com/techiedeva/mycerts/blob/main/AWS%20Training%20%26%20Certification%20-%20EC2.pdf)
+    - AWS Cloud Essentials | Completed June 2020 | *Link*: [View Certificate](https://github.com/techiedeva/mycerts/blob/main/AWS%20Training%20%26%20Certification%20-%20Cloud%20Fundamentals.pdf)
