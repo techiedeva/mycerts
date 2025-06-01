@@ -1,4 +1,4 @@
-# Ashok Srinivasan Kalyani - Release Manager, Scrum Master and DevOps
+# Ashok Srinivasan Kalyani - Release Manager, Scrum Master, and DevOps
 
 Hello,
 
@@ -17,12 +17,18 @@ This repository showcases my learning journey, including achievements and certif
   - *Platform*: Scrum.org
   - *Description*: Mastered Scrum concepts, Roles and Responsibilities, Sprint, etc.
   - *Link*: [View Certificate](https://github.com/techiedeva/mycerts/blob/main/Certificate-Professional%20Scrum%20Master%20I.pdf)
-    
-## Continuous Learning - Course Completion Certificates
-- **GitHub Learning Lab: Introduction to GitHub** (Completed May 2025)
-  - *Platform*: GitHub Learning Lab
-  - *Description*: Mastered Git commands, pull requests, and repository management.
-  - *Link*: [View Certificate](certificates/github-intro.pdf)
-Thanks,
+ 
+- **ITIL v3 Foundation** (Completed August 2009)
+  - *Platform*: Exin Exams
+  - *Description*: Mastered ITIL concepts on Services Management, Technology Architecture, Roles, Functions, Processes, Service LifeCycle, etc.
+  - *Link*: [View Certificate](https://github.com/techiedeva/mycerts/blob/main/ITILV3-Certification.pdf)
 
-Ashok Srinivasan Kalyani
+- **IBM ClearCase for UNIX** (Completed August 2009)
+  - *Platform*: APTC NIIT Ltd
+  - *Description*: Certified on Clearcase and its Administration
+  - *Link*: [View Certificate](https://github.com/techiedeva/mycerts/blob/main/ClearCase-IBM-Certification.pdf)
+
+## Continuous Learning - Course Completion Certificates
+  - **Category: Project Management and Agile Methodologies**
+    - Learning Jira (Cloud Edition) | Completed Feb 2024 | *Link*: [View Certificate](https://github.com/techiedeva/mycerts/blob/main/CertificateOfCompletion_Learning%20Jira%20Cloud%20Edition.pdf)
+
