@@ -31,4 +31,16 @@ This repository showcases my learning journey, including achievements and certif
 ## Continuous Learning - Course Completion Certificates
   - **Category: Project Management and Agile Methodologies**
     - Learning Jira (Cloud Edition) | Completed Feb 2024 | *Link*: [View Certificate](https://github.com/techiedeva/mycerts/blob/main/CertificateOfCompletion_Learning%20Jira%20Cloud%20Edition.pdf)
+    - Agile Fundamentals: Including Scrum and Kanban | Completed Nov 2020 | *Link*: [View Certificate](https://github.com/techiedeva/mycerts/blob/main/Udemy-AgileFundamentals.pdf)
+    - Agile Fundamentals | Completed Sep 2020 | *Link*: [View Certificate](https://github.com/techiedeva/mycerts/blob/main/AgileFundamentals.pdf)
+    - Scrum Master Fundamentals - Foundations | Completed May 2020 | *Link*: [View Certificate](https://github.com/techiedeva/mycerts/blob/main/ScrumMasterFundamentals.pdf)
+   
+  - **Category: Version Control Management**
+    - Git Workflows | Completed Dec 2023 | *Link*: [View Certificate](https://github.com/techiedeva/mycerts/blob/main/CertificateOfCompletion_Git%20Workflows.pdf)
+   
+  - **Category: Service Management**
+    - Intro to ITIL V4 | Completed Oct 2023 | *Link*: [View Certificate](https://github.com/techiedeva/mycerts/blob/main/CertificateOfCompletion_Intro%20to%20Service%20Management%20with%20ITIL%204.pdf)
 
+  - **Category: Web Development**
+    - Web Programming Foundations | Completed Dec 2023 | *Link*: [View Certificate](https://github.com/techiedeva/mycerts/blob/main/CertificateOfCompletion_Web%20Programming%20Foundations.pdf)
+    - HTTP Essential Training | Completed Nov 2023 | *Link*: [View Certificate](https://github.com/techiedeva/mycerts/blob/main/CertificateOfCompletion_HTTP%20Essential%20Training%20(1).pdf)
