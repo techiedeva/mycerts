@@ -1,5 +1,5 @@
 # Ashok Srinivasan Kalyani
-Roles: Release Manager, Scrum Master, Build and Release Coordinator, Implementation Engineer, Package Engineer, Configuration Management, Build and Release Engineer
+Roles: Release Manager, Scrum Master, Build and Release Coordinator, Implementation Engineer, Package Engineer, Software Configuration Manager, Build and Release Engineer
 
 Hello,
 
