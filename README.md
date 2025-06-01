@@ -28,7 +28,7 @@ This repository showcases my learning journey, including achievements and certif
   - *Description*: Certified on Clearcase and its Administration
   - *Link*: [View Certificate](https://github.com/techiedeva/mycerts/blob/main/ClearCase-IBM-Certification.pdf)
 
-## Continuous Learning - Course Completion Certificates
+## Self-paced learning - Course Completion Certificates
   - **Category: Project Management and Agile Methodologies**
     - Learning Jira (Cloud Edition) | Completed Feb 2024 | *Link*: [View Certificate](https://github.com/techiedeva/mycerts/blob/main/CertificateOfCompletion_Learning%20Jira%20Cloud%20Edition.pdf)
     - Agile Fundamentals: Including Scrum and Kanban | Completed Nov 2020 | *Link*: [View Certificate](https://github.com/techiedeva/mycerts/blob/main/Udemy-AgileFundamentals.pdf)
