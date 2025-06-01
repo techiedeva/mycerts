@@ -6,6 +6,18 @@ Welcome to My GitHub Pages
 
 This repository showcases my learning journey, including achievements and certifications from various platforms. Explore my progress and view my certifications here.
 
+## Professional Certifications
+
+- **Microsoft Azure Fundamentals** (Completed February 2022)
+  - *Platform*: Udemy
+  - *Description*: Mastered Azure fundamentals
+  - *Link*: [View Certificate](https://github.com/techiedeva/mycerts/blob/main/Microsoft_Certified_Professional_Certificate_AZ900-Azure%20Fundamentals.pdf)
+
+## Continuous Learning - Course Completion Certificates
+- **GitHub Learning Lab: Introduction to GitHub** (Completed May 2025)
+  - *Platform*: GitHub Learning Lab
+  - *Description*: Mastered Git commands, pull requests, and repository management.
+  - *Link*: [View Certificate](certificates/github-intro.pdf)
 Thanks,
 
 Ashok Srinivasan Kalyani
